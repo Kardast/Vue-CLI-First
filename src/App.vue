@@ -10,7 +10,7 @@
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 import MyTitle from './components/MyTitle.vue'
-// import MyJumbo from './components/MyJumbo.vue'
+import MyJumbo from './components/MyJumbo.vue'
 
 
 export default {
@@ -18,7 +18,7 @@ export default {
   components: {
     HelloWorld,
     MyTitle,
-    // MyJumbo
+    MyJumbo
   }
 }
 </script>
